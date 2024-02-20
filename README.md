@@ -13,6 +13,6 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everton3012&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block"><br/>
-  <img alaign="center" alt="Everton-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+  <img alaign="center" alt="Everton-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
           
 </div>
