@@ -1,4 +1,4 @@
-### Olá 
+### Olá! Eu sou Everton
 - 🔭 Hoje estou procuando uma oportunidade como desenvolvedorWeb
   
 - 🌱 estudando PHP
@@ -18,6 +18,7 @@
   <img alaign="center" alt="Everton-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
   <img alaign="center" alt="Everton-Jquery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
   <img alaign="center" alt="Everton-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" /> 
+  <img alaign="center" alt="Everton-Node" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg" />
           
           
 </div>
