@@ -1,7 +1,7 @@
 ## Olá! Eu sou Everton
 - 🔭 Hoje estou procuando uma oportunidade como desenvolvedorWeb
   
-- 🌱 estudando Laravel
+- 🌱 estudando Nextjs
 
 - 📫 Contate no email: evertonmoura137@outlook.com
 
