@@ -1,30 +1,44 @@
-## Olá! Eu sou Everton
-- 🔭 Hoje estou procuando uma oportunidade como desenvolvedorWeb
-  
-- 🌱 me aprimorando em infraestrutura Web 
+# 👋 Olá, eu sou Everton Brandão de Moura
 
-- 📫 Contate no email: evertonmoura137@outlook.com
+🎯 Desenvolvedor Full Stack Júnior apaixonado por tecnologia, aprendizado contínuo e soluções criativas.  
+🔍 Em busca de uma oportunidade como **Desenvolvedor Web**.
 
-- idade: 24
-##  
-<div>
-  <a href="https://github.com/Everton3012"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Everton3012&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everton3012&layout=compact&langs_count=8&theme=chartreuse-dark"/>
-</div>
-<div style="display: inline_block">
-  <br/>
-  <img alaign="center" alt="Everton-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
-  <img alaign="center" alt="Everton-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />      
-  <img alaign="center" alt="Everton-JS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
-  <img alaign="center" alt="Everton-TS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-  <img alaign="center" alt="Everton-TS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-  <img alaign="center" alt="Everton-NextJs" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img alaign="center" alt="Everton-nestJS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
-  <img alaign="center" alt="Everton-Jquery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
-  <img alaign="center" alt="Everton-BootStrap" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img alaign="center" alt="Everton-Mysql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img alaign="center" alt="Everton-Postgres" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-  <img alaign="center" alt="Everton-tailwindcss" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
-</div>
+🚀 Atualmente me aprofundando em **Infraestrutura Web** e desenvolvimento de sistemas escaláveis.
 
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na Estácio  
+🗓️ Idade: 24 anos
+
+## 🛠️ Tecnologias e Ferramentas
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+---
+
+## 💼 Projetos em Destaque
+
+### 🔧 [Casa Certa](https://casa-certa.vercel.app/)
+> Plataforma para conectar usuários a prestadores de serviços (maridos de aluguel) na região.
+
+- Desenvolvido com **Next.js**, **TypeScript** e **Sass**
+- Projeto 100% responsivo, focado em usabilidade
+- Deploy realizado via **Vercel**
+
+---
+
+## 📬 Entre em Contato
+
+📧 E-mail: [evertonmoura137@outlook.com](mailto:evertonmoura137@outlook.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/evertonbrandao/)  
+💻 [Portfólio no GitHub](https://github.com/Everton3012)
+
+---
+
+🔄 *Este README está em constante atualização conforme minha jornada como desenvolvedor evolui!*
