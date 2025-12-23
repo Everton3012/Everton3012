@@ -1,79 +1,165 @@
 # 👋 Olá, eu sou Everton Brandão de Moura
 
-> “Transformando café ☕️ em código 💻 e ideias em impacto real.”
+> “Desenvolvendo sistemas web bem estruturados, testáveis e prontos para crescer.”
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou um Desenvolvedor Full Stack Júnior apaixonado por tecnologia, aprendizado constante e desafios que me fazem crescer.  
-Adoro construir aplicações web elegantes, escaláveis e com foco na melhor experiência para o usuário.  
+Sou **Desenvolvedor Full Stack**, com experiência prática no desenvolvimento de **aplicações web modernas**, **APIs REST** e **sistemas bem organizados**, atuando tanto no front-end quanto no back-end.
 
-🌱 Atualmente explorando **infraestrutura web** e **sistemas escaláveis**.  
+Tenho forte interesse em **engenharia de software**, qualidade de código, testes automatizados e arquitetura de sistemas.  
+Busco sempre entender o **porquê das decisões técnicas**, indo além do “apenas funcionar”.
+
+🎯 Foco em construir soluções:
+- Escaláveis
+- Testáveis
+- Manuteníveis
+- Com boa experiência para o usuário
 
 ---
 
 ## 🛠 Tecnologias & Ferramentas
 
 <p align="center">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005E87?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
 </p>
+
+---
+
+## 🧩 Linguagens
+- **JavaScript**
+- **TypeScript**
+- **PHP**
+
+---
+
+## 🎨 Front-end
+- **HTML5**
+- **CSS3**
+- **Sass (SCSS)**
+- **Tailwind CSS**
+- **React**
+- **Next.js**
+- **Vue 3**
+- **Nuxt 3**
+
+---
+
+## ⚙️ Back-end
+- **Node.js**
+- **Express.js**
+- **NestJS**
+- **Laravel**
+- **APIs REST**
+- **Autenticação JWT / OAuth**
+- **ORMs: TypeORM, Prisma**
+
+---
+
+## 🗄️ Bancos de Dados
+- **PostgreSQL**
+- **MongoDB**
+- **MySQL**
+- **Firebase**
+- Modelagem de dados e relacionamentos
+
+---
+
+## 🧪 Testes & Qualidade
+- **Jest** (testes unitários)
+- **Cypress** (testes E2E – frontend)
+- Boas práticas de testes
+- Validação de fluxos e regras de negócio
+
+---
+
+## 🔧 Outros
+- Git & GitHub
+- Versionamento e organização de projetos
+- Deploy (Vercel)
+- Integração e consumo de APIs
 
 ---
 
 ## 💼 Projetos em Destaque
 
-### 🔧 [Casa Certa](https://casa-certa.vercel.app/)
+### 🔧 Casa Certa  
+🔗 https://casa-certa.vercel.app/
 
-Plataforma responsiva que conecta clientes a prestadores de serviços locais, com foco em usabilidade e performance.  
+Plataforma web para conectar clientes a prestadores de serviços locais.
 
-- **Next.js**, **TypeScript**, **Sass**  
-- Deploy contínuo no **Vercel**  
-- Design centrado no usuário  
-
----
-
-## 📊 Minhas Estatísticas no GitHub
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Everton3012&show_icons=true&theme=radical" alt="GitHub Stats" width="320" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Everton3012&theme=radical" alt="GitHub Streak" width="320" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Everton3012&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="320" />
-    </td>
-  </tr>
-</table>
-
+**Destaques técnicos:**
+- Front-end em **Next.js** e **TypeScript**
+- Estilização com **Sass**
+- Arquitetura focada em performance e usabilidade
+- Deploy contínuo no **Vercel**
 
 ---
 
-## 📫 Vamos conversar?
+### 🎮 Game Manager (em desenvolvimento)
+
+Sistema de gerenciamento de jogos com foco em autenticação, organização de dados e escalabilidade.
+
+**Stack:**
+- **NestJS** (back-end)
+- **Nuxt 3 / Vue 3** (front-end)
+- **PostgreSQL**
+- **TypeORM**
+- Autenticação JWT e OAuth (Google / Discord)
+
+**Boas práticas aplicadas:**
+- Estruturação de API REST
+- Organização por módulos
+- Testes unitários com **Jest**
+- Testes E2E (frontend) com **Cypress**
+
+---
+
+## 📚 Em evolução contínua
+
+Atualmente aprofundando conhecimentos em:
+- Arquitetura de software
+- Infraestrutura web
+- SQL avançado
+- Padrões de projeto
+
+---
+
+## 📊 GitHub
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/evertonbrandao/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Everton3012">
-    <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Everton3012&show_icons=true&theme=radical" width="320" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Everton3012&theme=radical" width="320" />
 </p>
-
-📧 evertonmoura137@outlook.com  
 
 ---
 
-*“Cada linha de código é uma oportunidade para fazer a diferença.”*  
+## 📫 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/evertonbrandao/
+- 💻 GitHub: https://github.com/Everton3012
+- 📧 Email: evertonmoura137@outlook.com
+
+---
+
+> *“Código de qualidade não é apenas o que funciona, mas o que continua funcionando quando o sistema cresce.”*
