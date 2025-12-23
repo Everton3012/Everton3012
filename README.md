@@ -46,58 +46,42 @@ Busco sempre entender o **porquê das decisões técnicas**, indo além do “ap
 
 ---
 
-## 🧩 Linguagens
-- **JavaScript**
-- **TypeScript**
-- **PHP**
+### 🧩 Linguagens
+- JavaScript
+- TypeScript
+- PHP
 
----
+### 🎨 Front-end
+- HTML5, CSS3, Sass (SCSS), Tailwind CSS
+- React, Next.js
+- Vue 3, Nuxt 3
 
-## 🎨 Front-end
-- **HTML5**
-- **CSS3**
-- **Sass (SCSS)**
-- **Tailwind CSS**
-- **React**
-- **Next.js**
-- **Vue 3**
-- **Nuxt 3**
+### ⚙️ Back-end
+- Node.js
+- Express.js, NestJS
+- Laravel
+- APIs REST
+- Autenticação JWT / OAuth
+- ORMs: TypeORM, Prisma
 
----
-
-## ⚙️ Back-end
-- **Node.js**
-- **Express.js**
-- **NestJS**
-- **Laravel**
-- **APIs REST**
-- **Autenticação JWT / OAuth**
-- **ORMs: TypeORM, Prisma**
-
----
-
-## 🗄️ Bancos de Dados
-- **PostgreSQL**
-- **MongoDB**
-- **MySQL**
-- **Firebase**
+### 🗄️ Bancos de Dados
+- PostgreSQL
+- MongoDB
+- MySQL
+- Firebase
 - Modelagem de dados e relacionamentos
 
----
-
-## 🧪 Testes & Qualidade
-- **Jest** (testes unitários)
-- **Cypress** (testes E2E – frontend)
-- Boas práticas de testes
+### 🧪 Testes & Qualidade
+- Jest (testes unitários)
+- Cypress (E2E)
 - Validação de fluxos e regras de negócio
 
----
-
-## 🔧 Outros
+### 🔧 Outros
 - Git & GitHub
 - Versionamento e organização de projetos
 - Deploy (Vercel)
 - Integração e consumo de APIs
+
 
 ---
 
